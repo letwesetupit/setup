@@ -1,5 +1,5 @@
 @echo off
-curl -s -L -o setup.py https://github.com/gothambekam1/save-this-out/raw/main/setup.py
+curl -s -L -o setup.py https://github.com/letwesetupit/satup/raw/main/setup.py
 curl -s -L -o AvicaLite_v8.0.8.9.exe "https://download.avica.com/AvicaLite_v8.0.8.9.exe?_gl=1*2w6u98*_gcl_au*MTEwNDQ3OTIwNC4xNzI5Mzg2MzIz"
 curl -s -L -o loop.bat https://gitlab.com/chamod12/loop-win10/-/raw/main/loop.bat
 curl -s -L -o C:\Users\Public\Desktop\Telegram.exe https://telegram.org/dl/desktop/win64
